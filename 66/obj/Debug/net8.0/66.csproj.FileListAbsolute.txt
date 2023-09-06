@@ -1,0 +1,15 @@
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\bin\Debug\net8.0\66.exe
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\bin\Debug\net8.0\66.deps.json
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\bin\Debug\net8.0\66.runtimeconfig.json
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\bin\Debug\net8.0\66.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\bin\Debug\net8.0\66.pdb
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.csproj.AssemblyReference.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.GeneratedMSBuildEditorConfig.editorconfig
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.AssemblyInfoInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.AssemblyInfo.cs
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.csproj.CoreCompileInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\refint\66.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.pdb
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\66.genruntimeconfig.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework9\exercise66\66\obj\Debug\net8.0\ref\66.dll
